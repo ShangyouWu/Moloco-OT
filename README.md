@@ -1,2 +1,2 @@
 # Moloco-OT
-Moloco DS interview questions (OT)
+Moloco DS questions (OT)
